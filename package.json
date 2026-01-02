@@ -1,0 +1,18 @@
+{
+  "name": "chaiaurcode",
+  "version": "1.0.0",
+  "description": "Typescript is the superset of Javascript. Javascript with superpowers forms typescript. Typescript needs to compiled to generate relevant Javascript files, which then gets executed in browser.(Typechecker) Determine errors at a very early stage with Types in Typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/basic.js",
+    "dev": "npx tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
